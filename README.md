@@ -1,7 +1,7 @@
 # Chatbot-with-dialogflow
-# FrontEnd: Angular (Nebular Theme)
+ FrontEnd: Angular (Nebular Theme)
 
-# BackEnd(Cloud Functions): NodeJS
+ BackEnd(Cloud Functions): NodeJS
 
 Steps:
 1. Create a chatbot on the Dialogflow Console
