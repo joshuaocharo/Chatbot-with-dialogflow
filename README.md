@@ -9,10 +9,6 @@ Steps:
 
 In this project I define:
 1. Backend Cloud Functions;
-Add your Service Account
-Handling Conversations
-Fulfilling Intents with a Webhook
+Add your Service Account,Handling Conversations,Fulfilling Intents with a Webhook
 2. Frontend Angular Integration;
-Initial Setup
-Chatbot Component
-Chatbot Template
+Initial Setup,Chatbot Component,Chatbot Template
